@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/avinashkodali?tab=repositories](https://github.com/avinashkodali?tab=repositories)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12ihH_CIg2jcB1spgXfCPVbaXu0mq1VGZ/view?usp=share_link] (https://drive.google.com/file/d/12ihH_CIg2jcB1spgXfCPVbaXu0mq1VGZ/view?usp=share_link)
+- 📄 Know about my experiences [https://github.com/avinashkodali?tab=repositories](https://drive.google.com/file/d/12ihH_CIg2jcB1spgXfCPVbaXu0mq1VGZ/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

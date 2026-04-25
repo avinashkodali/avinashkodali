@@ -1,27 +1,101 @@
-<h1 align="center">Hi 👋, I'm Avinash Kodali</h1>
-<h3 align="center">Passionate about developing software applications</h3>
+<!--
+GitHub Profile README for the special repository: avinashkodali/avinashkodali
+Replace the placeholder links in the Connect section before publishing.
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkodali&label=Profile%20views&color=0e75b6&style=flat" alt="avinashkodali" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashkodali" alt="avinashkodali" /></a> </p>
-
-- 🔭 I’m currently studying **Master's in Computer Enigneering (Computer Sytems) at Arizona State University**
-
-- 👨‍💻 All of my projects are available at [https://github.com/avinashkodali?tab=repositories](https://github.com/avinashkodali?tab=repositories)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://linkedin.com/in/avinashkodali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinashkodali" height="30" width="40" /></a> -->
-<a href="https://www.codechef.com/users/kodali_avinash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kodali_avinash" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/avinashkodali9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avinashkodali9" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kodali_avinash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kodali_avinash" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Avinash Kodali</h1>
+<p align="center">
+  <strong>Full Stack Software Engineer building scalable backend systems, cloud-native applications, and distributed platforms.</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-4%20Years-111827?style=for-the-badge" alt="4 years experience" />
+  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Roles-0A66C2?style=for-the-badge" alt="Open to software engineering roles" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashkodali&show_icons=true&locale=en&layout=compact" alt="avinashkodali" /></p>
+<p align="center">
+  <a href="mailto:avinashkodali45@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/avinashkodali"><img src="https://img.shields.io/badge/GitHub-@avinashkodali-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashkodali&show_icons=true&locale=en" alt="avinashkodali" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashkodali&" alt="avinashkodali" /></p>
+- Software Engineer with 4 years of experience building scalable web applications, backend services, and distributed systems.
+- Strong in **Java, Spring Boot, React, AWS, Kubernetes, Apache Spark, and Terraform**.
+- Currently a **Software Engineer 3 at Walmart**, working on event-driven international supply chain systems.
+- Interested in **Software Engineer, Full Stack Engineer, Backend Engineer, Cloud Engineer, and Platform Engineer** roles.
+
+## Impact Highlights
+
+- Optimized high-volume **Apache Spark** jobs supporting international supply chain workflows at Walmart, improving efficiency and reliability.
+- Built an event management platform for **1,000+ users** at Arizona State University with **QR-based check-ins** and co-hosting features.
+- Created a long-term load forecasting tool on **AWS ECS** that improved forecasting accuracy by **10%**.
+- Developed **React/Redux** interfaces for an automotive ADAS testing application used by **350+ users**, improving testing efficiency by **30%**.
+
+## Experience Snapshot
+
+**Walmart — Software Engineer 3**  
+*May 2025 – Present*
+- Apache Spark optimization for event-driven supply chain workflows
+- Production reliability, incident resolution, and root cause analysis
+- Java and Spring Boot upgrades, platform migrations, and production validation
+- Automated testing, alerting improvements, documentation, and AI-assisted support tooling
+
+**Arizona State University — Software Developer**  
+*Jun 2024 – Mar 2025*
+- Full-stack event management platform using React and Spring Boot
+- Microservices deployed on AWS with Kubernetes
+- Terraform-based infrastructure automation
+
+**Arizona State University — Graduate Research Assistant**  
+*Jan 2023 – May 2024*
+- Long-term load forecasting tool built with AWS ECS, Spring Boot, React, and MLOps practices
+- Power grid security research focused on load redistribution attack mitigation
+
+**Tata Consultancy Services — Systems Engineer**  
+*Oct 2020 – Jul 2022*
+- React and Redux interfaces for automotive ADAS simulation workflows
+- CI/CD automation with Jenkins and AWS CodeDeploy
+
+## Core Stack
+
+### Languages
+`Java` `Python` `JavaScript` `TypeScript` `SQL` `Linux`
+
+### Backend & Web
+`Spring Boot` `Spring MVC` `Spring Data JPA` `Spring Security` `Node.js` `React` `REST APIs` `GraphQL` `Microservices`
+
+### Data & Distributed Systems
+`Apache Spark` `Kafka` `Hadoop` `Airflow`
+
+### Databases
+`MySQL` `PostgreSQL` `Oracle` `MongoDB` `Cassandra`
+
+### Cloud & DevOps
+`AWS` `GCP` `Azure` `Docker` `Kubernetes` `Terraform` `Jenkins`
+
+### AI / ML
+`RAG` `LangGraph` `scikit-learn` `PyTorch` `MLOps`
+
+## Certifications
+
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Terraform Associate
+- AWS Certified Developer – Associate
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- GCP Associate Cloud Engineer
+- Snowflake SnowPro Core
+
+## Education
+
+- **M.S. in Computer Engineering**, Arizona State University
+- **B.Tech. in Electrical and Electronics Engineering**, JNTUH College of Engineering
+
+## Connect
+
+- Email: **avinashkodali45@gmail.com**
+- GitHub: **https://github.com/avinashkodali**
+- LinkedIn: **www.linkedin.com/in/avinashkodali**
+- Portfolio: **https://avinashkodali.github.io/portfolio/**
+- Resume: **https://drive.google.com/file/d/1ZjZtSfbXS2C77cXZ1JnTOn1W4u2gVC7w/view**

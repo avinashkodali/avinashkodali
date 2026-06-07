@@ -29,7 +29,7 @@ GitHub Profile README for the special repository: avinashkodali/avinashkodali
 
 - Optimized **5 high-volume Apache Spark jobs** on Walmart's Kafka-based order-creation pipeline, cutting runtime **10–30%** (verified via production dashboards).
 - Drove a **25–40% reduction in production incidents** through root-cause analysis and targeted reliability fixes.
-- Built an internal **RAG chatbot** over runbooks and logs, **adopted by the on-call team** to speed incident triage.
+- Built an internal **RAG chatbot** over runbooks and logs, **adopted by the on-call team** to accelerate incident triage and resolution.
 - Shipped an event management platform for **1,000+ users** with **QR-based check-ins** and co-hosting, cutting check-in time **20%**.
 - Built a long-term load-forecasting tool on **AWS ECS** that improved forecasting accuracy **10%**.
 - Developed **React/Redux** interfaces for an automotive ADAS testing platform used by **350+ engineers**, improving testing efficiency **30%**.
@@ -38,10 +38,10 @@ GitHub Profile README for the special repository: avinashkodali/avinashkodali
 
 **Walmart Global Tech — Software Engineer III**  
 *May 2025 – Present*
-- Apache Spark optimization for the Kafka-based event-driven order-creation pipeline
-- Production reliability, incident resolution, and root-cause analysis
-- Java/Spring Boot upgrades, platform migrations, and production validation
-- Automated testing, alerting improvements, and an internal RAG support chatbot
+- Optimized 5 high-volume Apache Spark jobs powering the Kafka-based event-driven order-creation pipeline (millions of orders/day), cutting runtime 10–30%
+- Drove a 25–40% reduction in production incidents through root-cause analysis and targeted reliability fixes
+- Built an internal RAG chatbot over runbooks and logs, adopted by the on-call team to accelerate incident triage and resolution
+- Led Java/Spring Boot upgrades, platform migrations, and production validation; improved coverage and alerting through automated tests
 
 **EPICS at Arizona State University — Software Developer**  
 *Jun 2024 – Mar 2025*
@@ -85,6 +85,7 @@ GitHub Profile README for the special repository: avinashkodali/avinashkodali
 - HashiCorp Terraform Associate
 - AWS Certified Developer – Associate
 - AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
 - GCP Associate Cloud Engineer
 - Snowflake SnowPro Core
 

@@ -1,103 +1,92 @@
-<!--
-GitHub Profile README for the special repository: avinashkodali/avinashkodali
--->
+<h1>Hi, I'm Avinash Kodali</h1>
 
-<h1 align="center">Hi, I'm Avinash Kodali</h1>
-<p align="center">
-  <strong>Full Stack Software Engineer building scalable, fault-tolerant backend systems and cloud-native applications.</strong>
-</p>
+**Java applications. Data pipelines. Built for production.**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-111827?style=for-the-badge" alt="4+ years experience" />
-  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Roles-0A66C2?style=for-the-badge" alt="Open to software engineering roles" />
-</p>
+Software Engineer III at **Walmart Global Tech** · **4+ years of experience**<br>
+Exploring **Full Stack Java Developer** and **Data Engineer** opportunities.
 
-<p align="center">
-  <a href="mailto:avinashkodali45@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/avinashkodali"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/avinashkodali"><img src="https://img.shields.io/badge/GitHub-@avinashkodali-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+[Portfolio](https://avinashkodali.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/avinashkodali/) · [Resume](https://avinashkodali.github.io/portfolio/assets/Avinash_Kodali_Resume.pdf) · [Email](mailto:avinashkodali45@gmail.com)
 
-## About Me
+---
 
-- Full Stack Software Engineer with **4+ years** building scalable web applications, backend services, and distributed systems.
-- Strong in **Java, Spring Boot, React, TypeScript, AWS, Kubernetes, Apache Spark, and Terraform**.
-- Currently a **Software Engineer III at Walmart Global Tech**, working on event-driven international supply chain systems handling millions of orders/day.
-- Interested in **Senior Full Stack, Backend, Cloud, and Platform Engineering** roles.
+## What I build
 
-## Impact Highlights
+I develop full-stack Java applications and distributed data pipelines, with a focus on performance, production reliability, and measurable business outcomes.
 
-- Optimized **5 high-volume Apache Spark jobs** on Walmart's Kafka-based order-creation pipeline, cutting runtime **10–30%** (verified via production dashboards).
-- Drove a **25–40% reduction in production incidents** through root-cause analysis and targeted reliability fixes.
-- Built an internal **RAG chatbot** over runbooks and logs, **adopted by the on-call team** to accelerate incident triage and resolution.
-- Shipped an event management platform for **1,000+ users** with **QR-based check-ins** and co-hosting, cutting check-in time **20%**.
-- Built a long-term load-forecasting tool on **AWS ECS** that improved forecasting accuracy **10%**.
-- Developed **React/Redux** interfaces for an automotive ADAS testing platform used by **350+ engineers**, improving testing efficiency **30%**.
+At Walmart Global Tech, my work spans Spark/Hudi/Airflow batch pipelines, Java and Spring Boot modernization, production reliability, and an internal RAG assistant for incident triage. Previously, I developed a React/Spring Boot event platform at Arizona State University, worked on forecasting and power-grid security research, and built ADAS simulation tooling at Tata Consultancy Services.
 
-## Experience Snapshot
+| Java full-stack development | Data engineering |
+| --- | --- |
+| Java, Spring Boot, React, TypeScript | Apache Spark, Kafka, Airflow, Apache Hudi |
+| REST APIs, microservices, automated testing | Python, SQL, ETL/ELT, data-quality checks |
+| AWS deployments, Kubernetes, Terraform | Query optimization, repartitioning, AQE tuning |
 
-**Walmart Global Tech — Software Engineer III**  
-*May 2025 – Present*
-- Optimized 5 high-volume Apache Spark jobs powering the Kafka-based event-driven order-creation pipeline (millions of orders/day), cutting runtime 10–30%
-- Drove a 25–40% reduction in production incidents through root-cause analysis and targeted reliability fixes
-- Built an internal RAG chatbot over runbooks and logs, adopted by the on-call team to accelerate incident triage and resolution
-- Led Java/Spring Boot upgrades, platform migrations, and production validation; improved coverage and alerting through automated tests
+## Selected impact
 
-**EPICS at Arizona State University — Software Developer**  
-*Jun 2024 – Mar 2025*
-- Full-stack event management platform (1,000+ users) using React and Spring Boot
-- Microservices deployed on AWS with Kubernetes
-- Infrastructure as code with Terraform
+- **10–30% less runtime** across five production Apache Spark jobs through query optimization, hash-based repartitioning, Adaptive Query Execution tuning, and shuffle reduction.
+- **25–40% fewer production incidents** through root-cause analysis, reliability improvements, and data-quality checks across Kafka processing, Spark workloads, databases, and application services.
+- **1,000+ users** supported by a React and Spring Boot event-management platform; QR verification reduced check-in time by **20%**.
+- **30% better testing efficiency** for an ADAS simulation platform with workflows for **350+ engineers**.
+- Modernized backend services from **Java 8 / Spring Boot 2.3** to **Java 21 / Spring Boot 3.x**, resolving compatibility issues and expanding JUnit and integration test coverage.
 
-**Arizona State University — Graduate Research Assistant**  
-*Jan 2023 – May 2024*
-- Long-term load-forecasting tool on AWS ECS with a Spring Boot API and React dashboards (10% accuracy gain)
-- Power-grid security research: detection and mitigation of load-redistribution attacks (90% detection accuracy)
+## Work you can explore
 
-**Tata Consultancy Services — Systems Engineer**  
-*Oct 2020 – Jul 2022*
-- React and Redux interfaces for automotive ADAS simulation workflows
-- CI/CD automation with Jenkins and AWS CodeDeploy
+### Public Java code: AWS image-recognition app tier
 
-## Core Stack
+I developed and integrated the **Java/Spring Boot app-tier component** of an academic team project. The worker receives SQS messages, obtains recognition results, persists output in S3, publishes responses, and removes the processed message batch.
 
-### Languages
-`Java` `Python` `JavaScript` `TypeScript` `SQL`
+[Inspect the Java implementation](https://github.com/avinashkodali/MS-Projects/blob/master/CSE%20546%20Cloud%20Computing%20-%20Elastic%20Image%20Recognition%20Service%20on%20AWS/source_code/AppTier/src/main/java/com/aws/ccproject/service/ListenDispatchServiceImplement.java) · [README and team contributions](https://github.com/avinashkodali/MS-Projects/blob/master/CSE%20546%20Cloud%20Computing%20-%20Elastic%20Image%20Recognition%20Service%20on%20AWS/README.md)
 
-### Backend & Web
-`Spring Boot` `Spring MVC` `Spring Data JPA` `Spring Security` `Node.js` `React` `REST APIs` `Microservices`
+The README credits frontend and autoscaling work to other team members.
 
-### Data & Streaming
-`Apache Spark` `Kafka`
+### Professional work summaries
 
-### Databases
-`MySQL` `PostgreSQL` `Oracle` `MongoDB`
+| Work | Focus | Explore |
+| --- | --- | --- |
+| Production data pipelines at Walmart | Spark optimization, distributed batch processing, reliability | [Case study](https://avinashkodali.github.io/portfolio/?case=pipeline#work) |
+| Event-management platform at ASU | React, Spring Boot, AWS, Kubernetes, Terraform | [Case study](https://avinashkodali.github.io/portfolio/?case=events#work) |
+| Electricity forecasting and grid security | Automated data pipelines and machine learning | [Case study](https://avinashkodali.github.io/portfolio/?case=research#work) |
+| ADAS simulation tooling at TCS | Software-in-the-Loop workflows and reporting automation | [Case study](https://avinashkodali.github.io/portfolio/?case=simulation#work) |
 
-### Cloud & DevOps
-`AWS` `GCP` `Docker` `Kubernetes` `Terraform` `Jenkins`
+These summarize professional contributions; they are separate from the public academic code sample above.
 
-### AI / ML
-`RAG` `LangGraph` `Applied ML`
+## Technical toolkit
 
-## Certifications
+| Area | Technologies |
+| --- | --- |
+| Languages | Java, Python, SQL, JavaScript, TypeScript |
+| Backend & web | Spring Boot, Spring MVC, Spring Data JPA, Spring Security, React, Node.js, REST APIs, microservices |
+| Data engineering | Apache Spark, Kafka, Airflow, Apache Hudi, ETL/ELT, Hadoop, BigQuery |
+| Databases | PostgreSQL, MySQL, Oracle, MongoDB, Cassandra |
+| Cloud & delivery | AWS, GCP, Azure, Kubernetes, Docker, Terraform, Jenkins, CI/CD |
+| Testing & applied AI | JUnit, integration testing, RAG, vector search, scikit-learn, PyTorch, LangGraph |
 
-- Certified Kubernetes Administrator (CKA)
-- HashiCorp Terraform Associate
-- AWS Certified Developer – Associate
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Cloud Practitioner
-- GCP Associate Cloud Engineer
-- Snowflake SnowPro Core
+## Experience
 
-## Education
+| Organization | Role | Dates |
+| --- | --- | --- |
+| Walmart Global Tech | Software Engineer III | May 2025–Present |
+| Arizona State University | Software Developer | June 2024–May 2025 |
+| Arizona State University | Graduate Research Assistant | January 2023–May 2024 |
+| Tata Consultancy Services | Systems Engineer | October 2020–July 2022 |
 
-- **M.S. in Computer Engineering**, Arizona State University
-- **B.Tech. in Electrical and Electronics Engineering**, JNTUH College of Engineering
+## Education & selected credentials
 
-## Connect
+**M.S. Computer Engineering — Computer Systems**<br>
+Arizona State University · August 2022–May 2024
 
-- Email: **avinashkodali45@gmail.com**
-- GitHub: **https://github.com/avinashkodali**
-- LinkedIn: **https://www.linkedin.com/in/avinashkodali**
-- Portfolio: **https://avinashkodali.github.io/portfolio/**
-- Resume: **https://drive.google.com/file/d/1ZjZtSfbXS2C77cXZ1JnTOn1W4u2gVC7w/view**
+**B.Tech. Electrical & Electronics Engineering**<br>
+JNTUH College of Engineering · June 2016–May 2020
+
+Selected credentials earned:
+
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/fdc420cc-dd11-40df-aa88-f5aa4e90e600)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/8e5e8d26-974b-4a61-af26-43ef829bcb70/linked_in_profile)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4b6c6850-ea1a-4a30-8015-1f8bc03c445c/linked_in_profile)
+- [Google Cloud Associate Cloud Engineer](https://www.credly.com/badges/f926f557-5f63-49d7-9e45-7d8463f45acc/public_url)
+- [SnowPro Core](https://achieve.snowflake.com/353bdb04-eebd-407f-a457-e2f49c565442)
+
+---
+
+Interested in Java full-stack development, distributed data processing, or production reliability?<br>
+**[Let's connect](https://www.linkedin.com/in/avinashkodali/)** — or email **[avinashkodali45@gmail.com](mailto:avinashkodali45@gmail.com)**.

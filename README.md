@@ -27,6 +27,7 @@ At Walmart Global Tech, my work spans Spark/Hudi/Airflow batch pipelines, Java a
 - **25–40% fewer production incidents** through root-cause analysis, reliability improvements, and data-quality checks across Kafka processing, Spark workloads, databases, and application services.
 - **1,000+ users** supported by a React and Spring Boot event-management platform; QR verification reduced check-in time by **20%**.
 - **30% better testing efficiency** for an ADAS simulation platform with workflows for **350+ engineers**.
+- Developed Spark/Hudi/Airflow batch pipelines, contributing to a **40% reduction in operational alerts** and **$1M in projected annual cloud savings**.
 - Modernized backend services from **Java 8 / Spring Boot 2.3** to **Java 21 / Spring Boot 3.x**, resolving compatibility issues and expanding JUnit and integration test coverage.
 
 ## Work you can explore

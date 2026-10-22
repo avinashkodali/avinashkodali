@@ -13,7 +13,7 @@ Exploring **Full Stack Java Developer** and **Data Engineer** opportunities.
 
 I develop full-stack Java applications and distributed data pipelines, with a focus on performance, production reliability, and measurable business outcomes.
 
-At Walmart Global Tech, my work spans Spark/Hudi/Airflow batch pipelines, Java and Spring Boot modernization, production reliability, and an internal RAG assistant for incident triage. Previously, I developed a React/Spring Boot event platform at Arizona State University, worked on forecasting and power-grid security research, and built ADAS simulation tooling at Tata Consultancy Services.
+At Walmart Global Tech, my work spans Spark/Hudi/Airflow batch pipelines, agentic AI workflows for Java/Spring Boot modernization, production reliability, and an internal RAG assistant for incident triage. Previously, I developed a React/Spring Boot event platform at Arizona State University, worked on forecasting and power-grid security research, and built ADAS simulation tooling at Tata Consultancy Services.
 
 | Java full-stack development | Data engineering |
 | --- | --- |
@@ -28,7 +28,7 @@ At Walmart Global Tech, my work spans Spark/Hudi/Airflow batch pipelines, Java a
 - **1,000+ users** supported by a React and Spring Boot event-management platform; QR verification reduced check-in time by **20%**.
 - **30% better testing efficiency** for an ADAS simulation platform with workflows for **350+ engineers**.
 - Developed Spark/Hudi/Airflow batch pipelines, contributing to a **40% reduction in operational alerts** and **$1M in projected annual cloud savings**.
-- Modernized backend services from **Java 8 / Spring Boot 2.3** to **Java 21 / Spring Boot 3.x**, resolving compatibility issues and expanding JUnit and integration test coverage.
+- Developed **agentic AI workflows using LangGraph and Deep Agents** to automate Java/Spring Boot modernization through LLM-driven code analysis, refactoring, and test generation, reducing manual migration effort.
 
 ## Work you can explore
 
@@ -60,7 +60,7 @@ These summarize professional contributions; they are separate from the public ac
 | Data engineering | Apache Spark, Kafka, Airflow, Apache Hudi, ETL/ELT, Hadoop, BigQuery |
 | Databases | PostgreSQL, MySQL, Oracle, MongoDB, Cassandra |
 | Cloud & delivery | AWS, GCP, Azure, Kubernetes, Docker, Terraform, Jenkins, CI/CD |
-| Testing & applied AI | JUnit, integration testing, RAG, vector search, scikit-learn, PyTorch, LangGraph |
+| Testing & applied AI | JUnit, integration testing, RAG, vector search, scikit-learn, PyTorch, LangGraph, Deep Agents |
 
 ## Experience
 
